@@ -1,0 +1,26 @@
+# Directorios
+dataset/
+images_inference/
+labeltool/
+lego/
+pcb/
+runs/
+videos/
+
+# Archivos multimedia
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
+.yaml
+
+# Modelos preentrenados
+*.onnx
+*.pt
+
+# Archivos zip
+*.zip
+
+# Otros archivos que podrían ser generados o no necesarios
+*.output
